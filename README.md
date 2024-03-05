@@ -40,3 +40,4 @@ Build Automation
 LESSONS LEARNED:
 Successfully integrated GitHub and Jenkins to create a streamlined CI process, ensuring automatic builds upon code changes. 
 The project showcases expertise in CI technologies, Docker, and Git version control, underlining a commitment to efficient software development practices.
+![image](https://github.com/abha2805/-Continuous-Integration-with-Jenkins-and-Docker/assets/145707366/312298d2-ac21-4ab4-bf32-f9f93cfc203b)
